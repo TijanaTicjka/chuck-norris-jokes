@@ -1,0 +1,18 @@
+#main{
+    max-height: 100vh;
+}
+
+.btn {
+    border:2px solid #07a3eb;
+    font-weight: 600;
+}
+
+.card {
+    border: none;
+    --bs-bg-opacity: .09;
+}
+
+.joke {
+    display:none;
+    background-color: rgba(255, 127, 80, 0.658);
+}

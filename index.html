@@ -8,15 +8,15 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-    <h1 class="text-center">Chuck Norris Jokes</h1>
-    <div class="container-fluid d-flex justify-content-center mt-5 mb-2">
-        <div class="card border-0" style="width: 40rem;">
-             <img src="./chucknorris_logo_coloured_small@2x.png" class="card-img-top" id="logo" alt="...">
-             <div></div>
-             <div class="card-body d-flex justify-content-center">
-                <button class="btn btn-primary mb-5" id="get-joke">Get Joke</button>
-            </div>
-        </div>
+    <div class="container-fluid d-flex justify-content-center flex-wrap text-wrap p-2" id="main">
+      <h1 class="text-center p-3" style="width:100%">Chuck Norris Jokes</h1>
+      <div class="card border-0 shadow-lg p-3 bg-warning bg-gradient" style="width:50%">
+          <img src="./chucknorris_logo_coloured_small@2x.png" class="card-img-top" id="logo" alt="...">
+          <div class="d-flex justify-content-center mb-3 mt-3">
+              <button class="btn btn-info shadow-lg" id="get-joke">Get Joke</button>
+          </div>
+          <div class="card shadow-lg p-3 joke"></div>
+      </div>
     </div>
     <script src="./js/data.js"></script>
     <script src="./js/ui.js"></script>
