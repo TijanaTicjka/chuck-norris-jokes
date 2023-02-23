@@ -15,4 +15,5 @@
 .joke {
     display:none;
     background-color: rgba(255, 127, 80, 0.658);
+    max-width: 90%;
 }
