@@ -18,8 +18,6 @@ const uiModule = (function(){
 
     const deleteJoke = () => {
         boxForJoke.style.display="none";
-       
-        console.log("cao");
     }
 
     return {
