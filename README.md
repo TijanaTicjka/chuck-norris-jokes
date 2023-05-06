@@ -1,6 +1,6 @@
 # Chuck Norris Jokes 
 
-![Screenshot](./chuckNorrisJokes.png.png)
+![Screenshot](chuckNorrisJokes.png)
 
 ## Description
 
