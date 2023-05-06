@@ -20,5 +20,6 @@ Chuck Norris Jokes is a fun web application that displays random Chuck Norris jo
 
 ### Deployment
 
-The Chuck Norris Jokes Web App is deployed and can be accessed [here(https://tijanamilenkovic-chuck-norris-jokes.netlify.app)]. 
+The Chuck Norris Jokes Web App is deployed and can be accessed [here](https://tijanamilenkovic-chuck-norris-jokes.netlify.app).
+ 
 
